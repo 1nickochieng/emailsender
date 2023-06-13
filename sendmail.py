@@ -3,12 +3,12 @@ from app import password
 import ssl
 import smtplib
 
-email_sender = '1nickochieng@gmail.com'
+email_sender = 'odenynick@gmail.com'
 email_password = password
 
 email_receiver = 'letow73259@terkoer.com'
 
-subject = "Don't forget to come over"
+subject = "Are we making any changes tonight?"
 body = """
 The class is amazing
 """
