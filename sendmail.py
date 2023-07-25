@@ -10,7 +10,7 @@ email_receiver = 'letow73259@terkoer.com'
 
 subject = "Are we making any changes tonight?"
 body = """
-The class is amazing
+We love our teacher
 """
 
 em = EmailMessage()
